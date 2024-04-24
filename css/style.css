@@ -175,6 +175,7 @@ img {
     max-width: 496px;
     margin: 0 auto;
     margin-bottom: 48px;
+    text-align: center;
 }
 
 .main-btn {
@@ -332,8 +333,6 @@ img {
 
 .team-menu-icon {
     fill: #F4F4FD;
-    width: 16px;
-    height: 16px;
 }
 
 
@@ -553,8 +552,6 @@ img {
 .team-menu-icon {
     fill: #f4f4fd;
     display: flex;
-    width: 24px;
-    height: 24px;
 }
 
 .container-icon-item {
